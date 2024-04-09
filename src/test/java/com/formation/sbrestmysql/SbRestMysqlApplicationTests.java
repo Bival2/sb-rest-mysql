@@ -1,4 +1,4 @@
-package com.formation;
+package com.formation.sbrestmysql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
